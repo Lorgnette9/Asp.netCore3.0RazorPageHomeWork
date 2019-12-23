@@ -1,0 +1,8 @@
+C:\Users\sherl\source\repos\Taste\Taste.Models\bin\Release\netcoreapp3.0\Taste.Models.deps.json
+C:\Users\sherl\source\repos\Taste\Taste.Models\bin\Release\netcoreapp3.0\Taste.Models.dll
+C:\Users\sherl\source\repos\Taste\Taste.Models\bin\Release\netcoreapp3.0\Taste.Models.pdb
+C:\Users\sherl\source\repos\Taste\Taste.Models\obj\Release\netcoreapp3.0\Taste.Models.csprojAssemblyReference.cache
+C:\Users\sherl\source\repos\Taste\Taste.Models\obj\Release\netcoreapp3.0\Taste.Models.AssemblyInfoInputs.cache
+C:\Users\sherl\source\repos\Taste\Taste.Models\obj\Release\netcoreapp3.0\Taste.Models.AssemblyInfo.cs
+C:\Users\sherl\source\repos\Taste\Taste.Models\obj\Release\netcoreapp3.0\Taste.Models.dll
+C:\Users\sherl\source\repos\Taste\Taste.Models\obj\Release\netcoreapp3.0\Taste.Models.pdb

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYElVbxLN50O/tDat+I2l6QAAAAACAAAAAAAQZgAAAAEAACAAAABXQ/BPPRU685O0/TqiGQq0vt1pz9e1zLhBfuq8UOKTGwAAAAAOgAAAAAIAACAAAACp7pmklrMCpMZ+x/w+yZmsgfmsxI3gjYGn35Hz4ULWrYAAAACMZw8tIVFPyCvrDVI4XqpsbhDerhTuZzb2i+Akq5cBtlW8Z+GCfuYRq0aSwVVkp5nj9qztWbVM2FU07Xc09tQRtKNHfq+jbABDBX8KpIaAiay2tm6A0dV9aQ+nTG86VHyBqcq/X5s1uZ4iCAwTuD9kWfZswPz/mjuzy+X7RtyBLEAAAAA4h7vnf16nMqaeGSac98BbF4XP85OZlLb93RqXorB/7uxfJb4Itso2zYIXDGGoA4QGL6vyOe0Fhrzur0wLUFvL</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:taste20191222073442dbserver.database.windows.net,1433%3bInitial Catalog=Taste20191222073442_db%3bUser Id=adminuser%40taste20191222073442dbserver%3bPassword=admin123.</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
