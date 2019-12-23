@@ -14122,11 +14122,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sherl\\source\\repos\\Taste\\Taste\\Taste.csproj",
+      "projectUniqueName": "U:\\Taste\\Taste\\Taste.csproj",
       "projectName": "Taste",
-      "projectPath": "C:\\Users\\sherl\\source\\repos\\Taste\\Taste\\Taste.csproj",
+      "projectPath": "U:\\Taste\\Taste\\Taste.csproj",
       "packagesPath": "C:\\Users\\sherl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sherl\\source\\repos\\Taste\\Taste\\obj\\publish\\win-x86\\",
+      "outputPath": "U:\\Taste\\Taste\\obj\\publish\\win-x86\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14147,11 +14147,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\sherl\\source\\repos\\Taste\\Taste.DataAccess\\Taste.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\sherl\\source\\repos\\Taste\\Taste.DataAccess\\Taste.DataAccess.csproj"
+            "U:\\Taste\\Taste.DataAccess\\Taste.DataAccess.csproj": {
+              "projectPath": "U:\\Taste\\Taste.DataAccess\\Taste.DataAccess.csproj"
             },
-            "C:\\Users\\sherl\\source\\repos\\Taste\\Taste.Models\\Taste.Models.csproj": {
-              "projectPath": "C:\\Users\\sherl\\source\\repos\\Taste\\Taste.Models\\Taste.Models.csproj"
+            "U:\\Taste\\Taste.Models\\Taste.Models.csproj": {
+              "projectPath": "U:\\Taste\\Taste.Models\\Taste.Models.csproj"
             }
           }
         }

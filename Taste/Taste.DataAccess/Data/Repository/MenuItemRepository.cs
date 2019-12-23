@@ -20,7 +20,7 @@ namespace Taste.DataAccess.Data.Repository
 
         public void Update(MenuItem menuItem)
         {
-            var menuItemFromDb = _db.MenuItems.FirstOrDefault(m => m.Id == menuItem.Id);
+            var menuItemFromDb = _db.MenuItem.FirstOrDefault(m => m.Id == menuItem.Id);
 
             menuItemFromDb.Name = menuItem.Name;
             menuItemFromDb.CategoryId = menuItem.CategoryId;

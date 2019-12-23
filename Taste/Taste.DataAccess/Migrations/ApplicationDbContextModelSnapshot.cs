@@ -237,7 +237,7 @@ namespace Taste.DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Categories");
+                    b.ToTable("Category");
                 });
 
             modelBuilder.Entity("Taste.Models.FoodType", b =>
@@ -252,7 +252,7 @@ namespace Taste.DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("FoodTypes");
+                    b.ToTable("FoodType");
                 });
 
             modelBuilder.Entity("Taste.Models.MenuItem", b =>
@@ -287,7 +287,7 @@ namespace Taste.DataAccess.Migrations
 
                     b.HasIndex("FoodTypeId");
 
-                    b.ToTable("MenuItems");
+                    b.ToTable("MenuItem");
                 });
 
             modelBuilder.Entity("Taste.Models.ShoppingCart", b =>
@@ -308,7 +308,7 @@ namespace Taste.DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("ShoppingCarts");
+                    b.ToTable("ShoppingCart");
                 });
 
             modelBuilder.Entity("Taste.Models.ApplicationUser", b =>

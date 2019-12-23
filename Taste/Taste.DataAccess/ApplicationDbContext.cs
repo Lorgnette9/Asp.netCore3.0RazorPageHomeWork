@@ -14,13 +14,13 @@ namespace Taste.DataAccess
         {
         }
 
-        public DbSet<Category> Categories { get; set; }
-       public DbSet<FoodType>FoodTypes { get; set; }
+        public DbSet<Category> Category { get; set; }
+       public DbSet<FoodType>FoodType { get; set; }
 
-       public DbSet<MenuItem> MenuItems { get; set; }
-       public DbSet<ApplicationUser> ApplicationUsers { get; set; }
+       public DbSet<MenuItem> MenuItem { get; set; }
+       public DbSet<ApplicationUser> ApplicationUser { get; set; }
 
-      public DbSet<ShoppingCart> ShoppingCarts { get; set; }
+      public DbSet<ShoppingCart> ShoppingCart { get; set; }
 
 
     }

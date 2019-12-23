@@ -582,11 +582,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sherl\\source\\repos\\Taste\\Taste.Utility\\Taste.Utility.csproj",
+      "projectUniqueName": "U:\\Taste\\Taste.Utility\\Taste.Utility.csproj",
       "projectName": "Taste.Utility",
-      "projectPath": "C:\\Users\\sherl\\source\\repos\\Taste\\Taste.Utility\\Taste.Utility.csproj",
+      "projectPath": "U:\\Taste\\Taste.Utility\\Taste.Utility.csproj",
       "packagesPath": "C:\\Users\\sherl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sherl\\source\\repos\\Taste\\Taste.Utility\\obj\\",
+      "outputPath": "U:\\Taste\\Taste.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

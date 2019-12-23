@@ -6,3 +6,11 @@ C:\Users\sherl\source\repos\Taste\Taste.Models\obj\Debug\netcoreapp3.0\Taste.Mod
 C:\Users\sherl\source\repos\Taste\Taste.Models\bin\Debug\netcoreapp3.0\Taste.Models.pdb
 C:\Users\sherl\source\repos\Taste\Taste.Models\obj\Debug\netcoreapp3.0\Taste.Models.dll
 C:\Users\sherl\source\repos\Taste\Taste.Models\obj\Debug\netcoreapp3.0\Taste.Models.pdb
+U:\Taste\Taste.Models\bin\Debug\netcoreapp3.0\Taste.Models.deps.json
+U:\Taste\Taste.Models\bin\Debug\netcoreapp3.0\Taste.Models.dll
+U:\Taste\Taste.Models\bin\Debug\netcoreapp3.0\Taste.Models.pdb
+U:\Taste\Taste.Models\obj\Debug\netcoreapp3.0\Taste.Models.csprojAssemblyReference.cache
+U:\Taste\Taste.Models\obj\Debug\netcoreapp3.0\Taste.Models.AssemblyInfoInputs.cache
+U:\Taste\Taste.Models\obj\Debug\netcoreapp3.0\Taste.Models.AssemblyInfo.cs
+U:\Taste\Taste.Models\obj\Debug\netcoreapp3.0\Taste.Models.dll
+U:\Taste\Taste.Models\obj\Debug\netcoreapp3.0\Taste.Models.pdb

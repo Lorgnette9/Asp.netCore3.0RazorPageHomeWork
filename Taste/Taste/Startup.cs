@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
@@ -8,6 +9,7 @@ using Microsoft.AspNetCore.Identity.UI;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Identity.UI.Services;
+using Microsoft.AspNetCore.Localization;
 using Microsoft.EntityFrameworkCore;
 
 using Microsoft.Extensions.Configuration;
@@ -51,6 +53,12 @@ namespace Taste
 
             });
 
+            
+
+
+
+            services.AddMvc();
+
 
             services.AddIdentity<IdentityUser, IdentityRole>()
                 .AddDefaultTokenProviders()
@@ -61,9 +69,13 @@ namespace Taste
 
 
             services.AddScoped<IUnitOfWork, UnitOfWorkRepository>();
+            
+           
+          
 
             services.AddScoped<IDbInitializer, DbInitializer>();
 
+            //shoppingCart için yazýlan service
             services.AddSession(options =>
             {
                 options.IdleTimeout = TimeSpan.FromMinutes(10);
@@ -115,6 +127,8 @@ namespace Taste
 
             app.UseAuthentication();
             app.UseAuthorization();
+
+           
 
             //bunu da ben ekledim
             app.UseMvc();

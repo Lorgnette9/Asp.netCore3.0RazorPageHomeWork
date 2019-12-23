@@ -6,3 +6,11 @@ C:\Users\sherl\source\repos\Taste\Taste.Utility\obj\Release\netcoreapp3.0\Taste.
 C:\Users\sherl\source\repos\Taste\Taste.Utility\obj\Release\netcoreapp3.0\Taste.Utility.AssemblyInfo.cs
 C:\Users\sherl\source\repos\Taste\Taste.Utility\obj\Release\netcoreapp3.0\Taste.Utility.dll
 C:\Users\sherl\source\repos\Taste\Taste.Utility\obj\Release\netcoreapp3.0\Taste.Utility.pdb
+U:\Taste\Taste.Utility\bin\Release\netcoreapp3.0\Taste.Utility.deps.json
+U:\Taste\Taste.Utility\bin\Release\netcoreapp3.0\Taste.Utility.dll
+U:\Taste\Taste.Utility\bin\Release\netcoreapp3.0\Taste.Utility.pdb
+U:\Taste\Taste.Utility\obj\Release\netcoreapp3.0\Taste.Utility.csprojAssemblyReference.cache
+U:\Taste\Taste.Utility\obj\Release\netcoreapp3.0\Taste.Utility.AssemblyInfoInputs.cache
+U:\Taste\Taste.Utility\obj\Release\netcoreapp3.0\Taste.Utility.AssemblyInfo.cs
+U:\Taste\Taste.Utility\obj\Release\netcoreapp3.0\Taste.Utility.dll
+U:\Taste\Taste.Utility\obj\Release\netcoreapp3.0\Taste.Utility.pdb

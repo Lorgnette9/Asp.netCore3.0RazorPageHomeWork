@@ -54,7 +54,7 @@ namespace Taste.DataAccess.Data.Initializer
                  LastName = "x1"
              }, "Admin123.").GetAwaiter().GetResult();
 
-            ApplicationUser user = _db.ApplicationUsers.Where(u => u.Email == "admin@gmail.com").FirstOrDefault();
+            ApplicationUser user = _db.ApplicationUser.Where(u => u.Email == "admin@gmail.com").FirstOrDefault();
 
             _userManager.AddToRoleAsync(user, SD.ManagerRole).GetAwaiter().GetResult();
         }
