@@ -1,1 +1,11 @@
 https://taste90.azurewebsites.net
+
+
+
+Ek AÇIKLAMALAR
+1-Register'da development hata sayfası gelse bile kayıt gerçekleşiyor.
+2-Login'e gidip  giriş yapabilirsiniz. 
+3-admin girişi admin@gmail.com
+	     Admin123.
+4-Admin Paneli user linkinden kullanıcıları kilitleyip manager yapabilirsiniz.
+
